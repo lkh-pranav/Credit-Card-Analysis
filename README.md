@@ -109,7 +109,9 @@ Real-Time Insights: Refreshed Power BI dashboards to provide stakeholders with u
 
 ## BUILDING DASHBOARDS
 
-Dashboard 1 : Credit Card Financial Report
+### Dashboard 1 : Credit Card Financial Report
+
+Check out my [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjUwNzdiNTUtZWUzZS00MGY5LWE1NjItNzQyY2NkZDE5MWM0IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSection)
 
 Key Features:
 
@@ -127,7 +129,7 @@ Key Features:
 
 ![image](https://github.com/lkh-pranav/Credit-Card-Analysis/assets/165638568/6327d3b6-b6c7-4cab-989c-ff68bf890d05)
 
-## Dashboard 2 : Credit Card Customer Report
+### Dashboard 2 : Credit Card Customer Report
 
 Check out my [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjUwNzdiNTUtZWUzZS00MGY5LWE1NjItNzQyY2NkZDE5MWM0IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSection)
 
