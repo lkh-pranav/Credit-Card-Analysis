@@ -22,9 +22,15 @@ This project aims to analyze weekly credit card transaction data coupled with cu
 
 ## DATA UNDERSTANDING  
 
-Source: Kaggle
+The dataset provides detailed information on credit card transactions along with associated customer details for a comprehensive analysis of spending behavior and transaction patterns over a specified period. The data is structured to enable in-depth insights into credit card usage, spending trends, and customer profiles.
 
-There are 2 datasets in (.csv) format which contain detailed information on Credit card Transaction and Customer information. The data spans a period of one year, from January 2023 to December 2023 and has about 10,293 records.
+
+      Source : Kaggle
+      Datasets : 2
+      File type : .csv
+      Records : 10,293
+      Data span : Jan 2023 - Dec 2023
+  
 
 ## CREATING DATABASE
 
